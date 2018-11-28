@@ -77,7 +77,7 @@ App({
   globalData: {
     userInfo: null,
     iv : null,
-    appId : 'wx83583d8561defc52',
+    appId : 'wxxxxxxxxxxx',
     session_key : null
   }
 })
